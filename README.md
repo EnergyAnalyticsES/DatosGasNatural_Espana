@@ -30,7 +30,7 @@ España produce una cantidad limitada de gas natural y depende significativament
 - **Estados Unidos:** Exportador líder de gas natural licuado (GNL).
 - **Nigeria y Qatar:** Otros actores clave en el suministro de GNL.
 
-Para solicitar un alta en gas natural e instalarlo deberá contactar cob [Mapa Instalaciones](https://mapainstalaciones.es/), empresa oficial de España que se encarga de tramitar las altas y realizar la instalación.
+Para solicitar un alta en gas natural e instalarlo deberá contactar con [Mapa Instalaciones](https://mapainstalaciones.es/); empresa oficial de España que se encarga de tramitar las altas y realizar la instalación.
 
 ## Impacto ambiental del gas natural
 
