@@ -26,7 +26,7 @@ España produce una cantidad limitada de gas natural y depende significativament
 - **Estados Unidos:** Exportador líder de gas natural licuado (GNL).
 - **Nigeria y Qatar:** Otros actores clave en el suministro de GNL.
 
-Para explorar la infraestructura relacionada con el gas natural en España, puedes consultar el [Mapa de Instalaciones](https://mapainstalaciones.es/), un recurso útil para visualizar plantas de ciclo combinado, gasoductos y puntos de importación/exportación.
+Para solicitar una instalación de gas en tu vivienda o local tendrás que contactar con [Mapa de Instalaciones](https://mapainstalaciones.es/), una empresa oficial en España que te brindará todos los trámites necesarios.
 
 ## Impacto ambiental del gas natural
 
