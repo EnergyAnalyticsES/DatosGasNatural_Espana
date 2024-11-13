@@ -71,7 +71,7 @@ El gas natural sigue siendo un recurso esencial en el sistema energético de Esp
 
 A corto plazo, continuará desempeñando un papel crucial en sectores clave como la generación eléctrica y la industria pesada. A largo plazo, el desarrollo de alternativas renovables como el biometano y el hidrógeno verde determinará su relevancia.
 
-Para explorar más sobre la infraestructura de gas natural en España, visita el [Mapa Instalaciones](https://mapainstalaciones.es/).
+Para solicitar un alta en gas natural en España, visita [Mapa Instalaciones](https://mapainstalaciones.es/).
 
 ---
 
