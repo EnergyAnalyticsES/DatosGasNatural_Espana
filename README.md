@@ -26,7 +26,7 @@ España produce una cantidad limitada de gas natural y depende significativament
 - **Estados Unidos:** Exportador líder de gas natural licuado (GNL).
 - **Nigeria y Qatar:** Otros actores clave en el suministro de GNL.
 
-Para solicitar una instalación de gas en tu vivienda o local tendrás que contactar con [Mapa de Instalaciones](https://mapainstalaciones.es/), una empresa oficial en España que te brindará todos los trámites necesarios.
+Para solicitar una instalación de gas en tu vivienda o local tendrás que contactar con [Mapa Instalaciones](https://mapainstalaciones.es/), una empresa oficial en España que te brindará todos los trámites necesarios.
 
 ## Impacto ambiental del gas natural
 
@@ -65,7 +65,7 @@ El gas natural sigue siendo un recurso esencial en el sistema energético de Esp
 
 A corto plazo, continuará desempeñando un papel crucial en sectores clave como la generación eléctrica y la industria pesada. A largo plazo, el desarrollo de alternativas renovables como el biometano y el hidrógeno verde determinará su relevancia.
 
-Para explorar más sobre la infraestructura de gas natural en España, visita el [Mapa de Instalaciones](https://mapainstalaciones.es/).
+Para explorar más sobre la infraestructura de gas natural en España, visita el [Mapa Instalaciones](https://mapainstalaciones.es/).
 
 ---
 
